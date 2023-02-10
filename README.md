@@ -1,5 +1,8 @@
 # Unity Project
 
+Tutorial on looking at the project
+https://youtu.be/mkQC4etZNuk
+
 Simple project animating a Dartmouth student
 
 I wanted to try my hand at C# scripting and 2D skeletal rigging using Unity over Winterim break. It was an enjoyable process for sure and I'd love to try out 3D and AR/VR projects in the future. 
